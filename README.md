@@ -217,8 +217,6 @@ Simple repository to practice GitHub MCP Server with GitHub Copilot.
 
 Commit the changes.
 
-![Edit the repository README](assets/edit-readme.png)
-
 ### Step 3: Ask Copilot About the Repository
 
 Return to **GitHub Copilot Chat** in Visual Studio Code. Identify the repository using the format **GitHub username/repository name**. For example: `johnsmith/mcp-practice`.
@@ -226,6 +224,8 @@ Return to **GitHub Copilot Chat** in Visual Studio Code. Identify the repository
 Then ask Copilot:
 
 > Using the GitHub MCP tools, get information about the repository johnsmith/mcp-practice and summarize what it contains.
+
+![Edit the repository README](assets/edit-readme.png)
 
 Replace `johnsmith` with the GitHub username used to create the repository. If a different repository name was used, replace `mcp-practice` as well. Observe how Copilot uses the GitHub MCP tools to retrieve the repository information.
 
